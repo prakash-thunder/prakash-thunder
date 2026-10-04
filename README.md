@@ -60,28 +60,25 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 
 ---
 
-<p align="left">
-  <span style="font-size:24px;"><strong>Connect with me:</strong></span>
-  &nbsp;&nbsp;&nbsp;
-
+<h2 align="left">
+  Connect with me:
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img
     align="middle"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="LinkedIn"
-    height="34"
-    width="44"
+    height="32"
+    width="42"
   /></a>
-
   &nbsp;&nbsp;
-
   <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img
     align="middle"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
     alt="Kaggle"
-    height="34"
-    width="44"
+    height="32"
+    width="42"
   /></a>
-</p>
+</h2>
 
 ---
 
