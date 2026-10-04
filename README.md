@@ -18,11 +18,8 @@ I'm an **M.Tech Data Science student** with a strong interest in **Machine Learn
 
 I enjoy working on real-world problems where I can combine **data, machine learning models, and software development** to build useful applications.
 
-- 🎓 Pursuing **M.Tech in Data Science (2025–2027)**
-- 📊 **CGPA: 8.30 / 10**
 - 🔭 Working on **Machine Learning, Deep Learning & Data Science projects**
 - 🌱 Exploring **Advanced ML, CNNs, Computer Vision & Backend Development**
-- ☕ Building applications using **Java & Spring Boot 3**
 - 🐍 Working extensively with **Python**
 - 🗄️ Comfortable with **SQL & MySQL**
 - 💡 Interested in understanding **how models work**, not just using libraries
