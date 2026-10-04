@@ -10,6 +10,7 @@
 ---
 
 ## About Me
+
 I'm an **M.Tech Data Science student** interested in building intelligent solutions using **Machine Learning, Deep Learning, Data Science, and Generative AI**.
 
 - 🎓 M.Tech in Data Science | **2025–2027**
@@ -48,14 +49,8 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 ---
 
 <h2>
-  GitHub Stats
-  &nbsp;&nbsp;
-  <img
-    align="middle"
-    height="125"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+  GitHub Stats &nbsp;&nbsp;
+  <img align="middle" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </h2>
 
 <p align="left">
