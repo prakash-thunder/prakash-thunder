@@ -31,25 +31,21 @@ I enjoy understanding how models work, experimenting with different approaches, 
 
 ## Tech Stack
 
-### Languages
-
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Machine Learning & Data Science
-
+**Machine Learning & Data Science**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-### Deep Learning
-
+**Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### Generative AI
-
+**Generative AI**  
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-6E40C9?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
@@ -65,10 +61,7 @@ I enjoy understanding how models work, experimenting with different approaches, 
 
 ## Currently Exploring
 
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- LLM Applications
+`Retrieval-Augmented Generation (RAG)` • `AI Agents` • `LangChain` • `LLM Applications`
 
 ---
 
@@ -76,7 +69,7 @@ I enjoy understanding how models work, experimenting with different approaches, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&layout=compact&hide_border=true&border_radius=10&title_color=58A6FF&text_color=8B949E&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&layout=compact&hide_border=true&border_radius=10&title_color=58A6FF&text_color=8B949E&bg_color=00000000"/>
 
 </div>
 
