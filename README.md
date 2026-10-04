@@ -102,4 +102,8 @@ I enjoy understanding how models work, experimenting with different approaches, 
 
 **Learn • Build • Experiment • Improve**
 
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
 </div>
