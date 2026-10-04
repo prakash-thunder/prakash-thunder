@@ -59,29 +59,32 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
   />
 </h2>
 
----
-
 <h2>
   Connect with me:
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img
-    align="middle"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="34"
-    width="44"
-  /></a>
-  &nbsp;
-  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img
-    align="middle"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-    alt="Kaggle"
-    height="34"
-    width="44"
-  /></a>
-</h2>
 
----
+  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank">
+    <img
+      align="middle"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="32"
+      width="32"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank">
+    <img
+      align="middle"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      alt="Kaggle"
+      height="32"
+      width="32"
+    />
+  </a>
+</h2>
 
 <div align="center">
 
