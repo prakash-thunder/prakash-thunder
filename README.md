@@ -45,27 +45,52 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 **AI & Generative AI:** `Generative AI` • `LangChain` • `RAG` • `AI Agents` • `LLM Applications`
 
 ---
-<h2>
-  GitHub Stats &nbsp;&nbsp;
-  <img align="middle" height="125"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
-       alt="Top Languages"/>
-  &nbsp;&nbsp;
-  <img align="middle"
-       src="https://komarev.com/ghpvc/?username=prakash-thunder&label=Profile%20Views&color=0A66C2&style=flat-square"
-       alt="Profile Views"/>
-</h2>
+<table>
+  <tr>
+    <td valign="middle">
+      <h2>GitHub Stats</h2>
+    </td>
+
+    <td valign="middle">
+      <img height="125"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
+           alt="Top Languages"/>
+    </td>
+
+    <td valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=prakash-thunder&label=Profile%20Views&color=0A66C2&style=flat-square"
+           alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2>
-  Connect with me: &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38"/></a>
-  &nbsp;
-  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="38"/></a>
-</h2>
+<table>
+  <tr>
+    <td valign="middle">
+      <h2>Connect with me:</h2>
+    </td>
 
----
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+             alt="LinkedIn"
+             height="30"
+             width="40"/>
+      </a>
+    </td>
+
+    <td valign="middle">
+      <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+             alt="Kaggle"
+             height="30"
+             width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 <div align="center">
 
