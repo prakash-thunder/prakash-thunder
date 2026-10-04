@@ -1,58 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Prakash%20Kumar&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descSize=14&descAlignY=58" width="100%" alt="Prakash Kumar — Data Science, Machine Learning and Generative AI" />
+# Hi, I'm Prakash Kumar 👋
 
-### Learning how intelligence works. Building what it can do.
+### Data Science • Machine Learning • Deep Learning • Generative AI
 
-M.Tech Data Science · 2025–2027  
-Exploring machine learning, deep learning, and LLM applications.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=M.Tech+Data+Science+Student;Machine+Learning+%26+Deep+Learning;Exploring+RAG+%26+AI+Agents;Learning+LangChain+%26+LLM+Applications;Building+Practical+AI+Solutions" alt="Typing SVG" />
 
-[LinkedIn](https://www.linkedin.com/in/prakash-kumar-118430218/) &nbsp; · &nbsp;
-[Kaggle](https://www.kaggle.com/prakashkumar99gautam) &nbsp; · &nbsp;
-[GitHub](https://github.com/prakash-thunder)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prakash-thunder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
-<br>
+---
 
-## About
+## About Me
 
-I'm a **Data Science postgraduate student** who enjoys understanding models,
-experimenting with ideas, and applying them to practical problems.
+I'm an **M.Tech Data Science student** interested in building intelligent solutions using **Machine Learning, Deep Learning, Data Science, and Generative AI**.
 
-- **Building** machine learning and deep learning projects with Python.
-- **Exploring** retrieval-augmented generation, AI agents, and LangChain.
-- **Developing** skills in data analysis, feature engineering, and model evaluation.
+I enjoy understanding how models work, experimenting with different approaches, and applying them to real-world problems.
 
-<br>
+- 🎓 M.Tech in Data Science | **2025–2027**
+- 🔭 Working on **Machine Learning & Deep Learning projects**
+- 🌱 Currently learning **RAG and AI Agents**
+- 🧩 Explored **LangChain and LLM-based applications**
+- 🐍 Primarily working with **Python**
+- 📊 Interested in **Data Analysis, Feature Engineering & Predictive Modeling**
 
-## Tools & Technologies
+---
 
-| Area | Stack |
-| :--- | :--- |
-| **Languages** | Python · SQL |
-| **Data & Visualization** | Pandas · NumPy · Matplotlib |
-| **Machine Learning** | Scikit-learn · Regression · Classification |
-| **Deep Learning** | TensorFlow · Keras · CNNs |
-| **Generative AI** | LangChain · RAG · LLM Applications · AI Agents |
+## Tech Stack
 
-<br>
+### Languages
 
-## Current Focus
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**From data to predictions**  
-Strengthening end-to-end workflows: exploratory analysis, preprocessing,
-feature engineering, and evaluation.
+### Machine Learning & Data Science
 
-**From language models to applications**  
-Learning how retrieval and tools help build useful LLM-based systems.
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-<br>
+### Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### Generative AI
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6E40C9?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-111111?style=flat-square)
+
+---
+
+## Core Skills
+
+`Machine Learning` • `Deep Learning` • `CNN` • `EDA` • `Data Preprocessing` • `Feature Engineering` • `Regression` • `Classification` • `Model Evaluation`
+
+---
+
+## Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- LLM Applications
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&layout=compact&hide_border=true&border_radius=10&title_color=58A6FF&text_color=8B949E&bg_color=00000000" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/prakash-kumar-118430218/">
+<img src="https://img.shields.io/badge/LinkedIn-Prakash%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/prakashkumar99gautam">
+<img src="https://img.shields.io/badge/Kaggle-prakashkumar99gautam-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>Learn thoughtfully. Build consistently. Improve through experiments.</sub>
+**Learn • Build • Experiment • Improve**
 
 </div>
