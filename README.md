@@ -48,46 +48,39 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 
 ---
 
-<p align="left">
-  <span style="font-size:26px;"><strong>GitHub Stats</strong></span>
-  &nbsp;&nbsp;&nbsp;
+<div style="display:flex; align-items:center; gap:24px;">
+  <h2 style="margin:0;">GitHub Stats</h2>
 
   <img
-    align="middle"
-    height="135"
+    height="125"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
     alt="Top Languages"
   />
-</p>
+</div>
 
 ---
 
-<p align="left">
-  <span style="font-size:26px;"><strong>Connect with me:</strong></span>
-  &nbsp;&nbsp;&nbsp;
+<div style="display:flex; align-items:center; gap:18px;">
+  <h2 style="margin:0;">Connect with me:</h2>
 
   <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank">
     <img
-      align="middle"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      height="36"
-      width="46"
+      height="34"
+      width="44"
     />
   </a>
-
-  &nbsp;
 
   <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank">
     <img
-      align="middle"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
       alt="Kaggle"
-      height="36"
-      width="46"
+      height="34"
+      width="44"
     />
   </a>
-</p>
+</div>
 
 ---
 
