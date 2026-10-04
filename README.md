@@ -45,50 +45,38 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 **AI & Generative AI:** `Generative AI` • `LangChain` • `RAG` • `AI Agents` • `LLM Applications`
 
 ---
-
----
-
 ## GitHub Stats
 
 <p align="left">
-  <img height="155"
+  <strong>GitHub Stats:</strong>&nbsp;&nbsp;
+  <img height="120"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
        alt="Top Languages"/>
-
   &nbsp;&nbsp;
-
-  <img
-       src="https://komarev.com/ghpvc/?username=prakash-thunder&label=Profile%20Views&color=0A66C2&style=flat-square"
+  <img src="https://komarev.com/ghpvc/?username=prakash-thunder&label=Profile%20Views&color=0A66C2&style=flat-square"
        alt="Profile Views"/>
 </p>
-
 ---
-
 <p align="left">
-  <strong>Connect with me:</strong>
-  &nbsp;&nbsp;
+  <strong>Connect with me:</strong>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="25"
-      width="34"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="26"
+         width="34"/>
   </a>
 
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="Kaggle"
-      height="25"
-      width="34"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+         alt="Kaggle"
+         height="26"
+         width="34"/>
   </a>
 </p>
-
 ---
-
 <div align="center">
 
 **Learn • Build • Experiment • Improve**
