@@ -19,9 +19,7 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 - 🧩 Explored **LangChain and LLM-based applications**
 - 🐍 Primarily working with **Python**
 - 📊 Interested in **Data Analysis, Feature Engineering & Predictive Modeling**
-
 <img src="https://komarev.com/ghpvc/?username=prakash-thunder&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
-
 ---
 
 ## Languages and Tools
