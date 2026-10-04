@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=M.Tech+Data+Science+Student;Machine+Learning+%26+Deep+Learning;Exploring+RAG+%26+AI+Agents;Learning+LangChain+%26+LLM+Applications;Building+Practical+AI+Solutions" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prakash-thunder&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
 ---
@@ -13,8 +17,6 @@
 ## About Me
 
 I'm an **M.Tech Data Science student** interested in building intelligent solutions using **Machine Learning, Deep Learning, Data Science, and Generative AI**.
-
-I enjoy understanding how models work, experimenting with different approaches, and applying them to real-world problems.
 
 - 🎓 M.Tech in Data Science | **2025–2027**
 - 🔭 Working on **Machine Learning & Deep Learning projects**
@@ -30,60 +32,52 @@ I enjoy understanding how models work, experimenting with different approaches, 
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </a>
 
 <a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="46" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="44" height="40"/>
 </a>
 
 <a href="https://matplotlib.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 </a>
 
 <a href="https://keras.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
 
 </p>
 
 ---
 
-## AI & Generative AI
+## Skills & AI Focus
 
-`Generative AI` • `LangChain` • `RAG` • `AI Agents` • `LLM Applications`
-
----
-
-## Core Skills
-
+**Core Skills:**  
 `Machine Learning` • `Deep Learning` • `CNN` • `EDA` • `Data Preprocessing` • `Feature Engineering` • `Regression` • `Classification` • `Model Evaluation`
 
----
-
-## Currently Exploring
-
-`Retrieval-Augmented Generation (RAG)` • `AI Agents` • `LangChain` • `LLM Applications`
+**AI & Generative AI:**  
+`Generative AI` • `LangChain` • `RAG` • `AI Agents` • `LLM Applications`
 
 ---
 
@@ -117,7 +111,7 @@ I enjoy understanding how models work, experimenting with different approaches, 
 
 **Learn • Build • Experiment • Improve**
 
-<br/><br/>
+<br/>
 
 ### ⭐ Thanks for visiting my profile!
 
