@@ -60,7 +60,7 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 </h2>
 
 <p align="left">
-  <strong style="font-size:24px;">Connect with me:</strong>&nbsp;&nbsp;
+  <strong style="font-size:32px;">Connect with me:</strong>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="38"/></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="32" width="32"/></a>
 </p>
