@@ -61,23 +61,26 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 ---
 
 <p align="left">
-<strong>Connect with me:</strong>&nbsp;&nbsp;&nbsp;
+  <span style="font-size:24px;"><strong>Connect with me:</strong></span>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img
-  align="middle"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-  alt="LinkedIn"
-  height="30"
-  width="40"
-/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img
+    align="middle"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="LinkedIn"
+    height="34"
+    width="44"
+  /></a>
 
-<a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img
-  align="middle"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-  alt="Kaggle"
-  height="30"
-  width="40"
-/></a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img
+    align="middle"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+    alt="Kaggle"
+    height="34"
+    width="44"
+  /></a>
 </p>
 
 ---
