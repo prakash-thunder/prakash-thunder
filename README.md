@@ -48,39 +48,38 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 
 ---
 
-<div style="display:flex; align-items:center; gap:24px;">
-  <h2 style="margin:0;">GitHub Stats</h2>
-
+<h2>
+  GitHub Stats
+  &nbsp;&nbsp;
   <img
+    align="middle"
     height="125"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
     alt="Top Languages"
   />
-</div>
+</h2>
 
 ---
 
-<div style="display:flex; align-items:center; gap:18px;">
-  <h2 style="margin:0;">Connect with me:</h2>
-
-  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="34"
-      width="44"
-    />
-  </a>
-
-  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="Kaggle"
-      height="34"
-      width="44"
-    />
-  </a>
-</div>
+<h2>
+  Connect with me:
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img
+    align="middle"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="LinkedIn"
+    height="34"
+    width="44"
+  /></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img
+    align="middle"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+    alt="Kaggle"
+    height="34"
+    width="44"
+  /></a>
+</h2>
 
 ---
 
