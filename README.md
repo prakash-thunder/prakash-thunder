@@ -10,7 +10,6 @@
 ---
 
 ## About Me
-
 I'm an **M.Tech Data Science student** interested in building intelligent solutions using **Machine Learning, Deep Learning, Data Science, and Generative AI**.
 
 - 🎓 M.Tech in Data Science | **2025–2027**
