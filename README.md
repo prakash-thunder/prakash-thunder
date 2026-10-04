@@ -49,36 +49,45 @@ I'm an **M.Tech Data Science student** interested in building intelligent soluti
 ---
 
 <p align="left">
-<strong>GitHub Stats</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-<img
-  align="middle"
-  height="125"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
-  alt="Top Languages"
-/>
+  <span style="font-size:26px;"><strong>GitHub Stats</strong></span>
+  &nbsp;&nbsp;&nbsp;
+
+  <img
+    align="middle"
+    height="135"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-thunder&show_icons=true&locale=en&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-<h2 align="left">
-  Connect with me:
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank"><img
-    align="middle"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="32"
-    width="42"
-  /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank"><img
-    align="middle"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-    alt="Kaggle"
-    height="32"
-    width="42"
-  /></a>
-</h2>
+<p align="left">
+  <span style="font-size:26px;"><strong>Connect with me:</strong></span>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/prakash-kumar-118430218/" target="_blank">
+    <img
+      align="middle"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="36"
+      width="46"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.kaggle.com/prakashkumar99gautam" target="_blank">
+    <img
+      align="middle"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      alt="Kaggle"
+      height="36"
+      width="46"
+    />
+  </a>
+</p>
 
 ---
 
